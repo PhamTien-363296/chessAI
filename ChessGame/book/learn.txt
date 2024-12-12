@@ -1,0 +1,3273 @@
+New Game
+
+White   12   28
+Black   57   42
+White   11   27
+Black   48   40
+White   27   35
+Black   52   44
+White   35   42
+Black   61   25
+White   10   18
+Black   25   18
+White   09   18
+Black   51   42
+White   03   59
+Black   60   59
+White   02   29
+Black   44   36
+White   01   11
+Black   54   38
+White   04   02
+Black   58   30
+White   11   26
+Black   30   03
+White   05   12
+Black   38   29
+White   12   03
+Black   49   33
+White   06   23
+Black   42   34
+White   26   36
+Black   53   45
+White   36   53
+Black   59   52
+White   53   63
+Black   56   59
+White   03   39
+Black   59   03
+White   07   03
+Black   29   21
+White   14   21
+Black   45   37
+White   18   26
+Black   62   45
+White   26   33
+Black   37   28
+White   33   40
+Black   28   21
+White   40   48
+Black   34   26
+White   48   56
+Black   26   18
+White   56   59
+Black   52   44
+White   59   50
+Black   18   10
+White   50   10
+Black   55   47
+White   03   04
+Black   44   35
+White   10   11
+Black   35   26
+White   04   20
+Black   45   28
+White   20   28
+Black   26   33
+White   11   35
+Black   33   40
+White   28   44
+Black   40   48
+White   35   51
+Black   48   57
+White   44   60
+
+End Game
+
+New Game
+
+White   12   28
+Black   55   47
+White   28   36
+Black   53   37
+White   36   44
+Black   51   44
+White   03   12
+Black   59   11
+White   12   11
+Black   44   36
+White   11   35
+Black   52   44
+White   35   36
+Black   61   25
+White   10   18
+Black   25   18
+White   36   18
+Black   44   36
+White   02   47
+Black   63   47
+White   01   16
+Black   47   42
+White   04   02
+Black   42   18
+White   09   18
+Black   58   44
+White   15   31
+Black   44   17
+White   31   39
+Black   17   03
+White   39   47
+Black   03   12
+White   47   55
+Black   12   05
+White   55   63
+Black   05   14
+White   07   55
+Black   14   35
+White   63   62
+Black   35   62
+White   55   63
+Black   60   51
+White   63   62
+Black   57   42
+White   62   56
+Black   42   25
+White   56   48
+Black   25   08
+White   02   09
+Black   37   29
+White   18   26
+Black   49   33
+White   26   33
+Black   08   18
+White   09   18
+Black   36   28
+White   33   41
+Black   28   20
+White   41   49
+Black   20   13
+White   49   57
+Black   13   06
+White   57   50
+Black   51   44
+White   48   32
+Black   06   34
+White   50   34
+Black   29   21
+White   34   42
+Black   44   53
+White   32   48
+Black   53   62
+White   42   50
+Black   21   13
+White   50   54
+
+End Game
+
+New Game
+
+New Game
+
+White   11   27
+Black   49   33
+White   27   35
+Black   53   45
+White   35   43
+Black   58   49
+White   06   23
+Black   49   14
+White   05   14
+Black   52   36
+White   13   21
+Black   36   28
+White   21   28
+Black   61   43
+White   28   36
+Black   43   25
+White   04   06
+Black   25   34
+White   23   13
+Black   34   13
+White   05   13
+Black   51   35
+White   36   45
+Black   59   45
+White   03   35
+Black   45   13
+White   06   13
+Black   50   42
+White   35   36
+Black   62   52
+White   01   18
+Black   63   61
+White   13   06
+Black   61   05
+White   06   05
+Black   57   51
+White   36   54
+Black   52   37
+White   54   55
+Black   37   22
+White   05   13
+Black   22   28
+White   13   06
+Black   51   45
+White   55   63
+Black   60   58
+White   63   23
+Black   59   51
+White   02   38
+Black   28   38
+White   23   63
+Black   51   59
+White   63   54
+Black   59   03
+White   00   03
+Black   38   23
+White   14   23
+Black   58   57
+White   03   59
+
+End Game
+
+New Game
+
+New Game
+
+White   03   27
+Black   58   44
+White   27   51
+Black   60   51
+White   08   24
+Black   44   17
+White   03   51
+Black   60   51
+White   03   39
+Black   60   51
+White   39   30
+Black   51   42
+White   03   51
+Black   60   51
+New Game
+
+New Game
+
+New Game
+
+White   12   28
+Black   50   34
+White   13   29
+Black   52   44
+White   06   21
+Black   59   31
+White   14   22
+Black   31   22
+White   15   22
+Black   51   35
+White   28   35
+Black   34   26
+White   05   26
+Black   44   35
+White   21   36
+Black   58   30
+White   01   18
+Black   35   26
+White   04   06
+Black   61   34
+White   05   13
+Black   34   13
+White   06   13
+Black   30   03
+White   18   03
+Black   53   45
+White   36   53
+Black   60   53
+White   11   27
+Black   26   18
+White   03   18
+Black   57   42
+White   27   35
+Black   42   27
+White   02   20
+Black   27   10
+White   00   02
+Black   10   20
+White   13   20
+Black   56   60
+White   18   28
+Black   60   28
+White   20   28
+Black   45   37
+White   28   37
+Black   62   52
+White   37   28
+Black   63   58
+White   02   58
+Black   55   47
+White   35   43
+Black   52   58
+White   43   51
+Black   58   43
+White   28   35
+Black   43   26
+White   51   59
+Black   26   20
+White   35   27
+Black   20   10
+White   27   19
+Black   10   04
+White   19   12
+Black   04   19
+White   59   35
+Black   53   46
+White   35   36
+Black   19   29
+White   36   29
+Black   48   32
+White   29   50
+Black   32   24
+White   50   49
+Black   24   16
+White   09   16
+Black   47   39
+White   16   24
+Black   39   31
+White   22   31
+Black   46   39
+White   24   32
+Black   39   30
+White   32   40
+Black   30   23
+White   40   48
+Black   23   30
+White   48   56
+Black   30   23
+White   49   25
+Black   54   38
+White   56   21
+Black   23   15
+White   25   04
+Black   38   30
+White   21   13
+Black   15   23
+White   04   06
+Black   30   22
+White   13   14
+Black   23   31
+White   14   22
+Black   31   39
+White   06   15
+
+End Game
+
+New Game
+
+White   08   24
+Black   57   40
+White   09   25
+Black   50   42
+White   10   26
+Black   59   41
+White   26   34
+Black   41   34
+White   03   10
+Black   34   13
+New Game
+
+White   11   27
+Black   51   43
+White   08   24
+Black   57   42
+White   06   21
+Black   42   27
+White   21   27
+Black   52   36
+White   27   42
+Black   59   38
+White   42   48
+Black   38   11
+White   03   11
+Black   56   48
+White   11   43
+Black   61   43
+White   02   47
+Black   43   25
+New Game
+
+White   12   28
+Black   52   44
+White   10   26
+Black   59   31
+White   28   36
+Black   31   13
+White   04   13
+Black   61   34
+New Game
+
+White   12   28
+Black   54   46
+White   13   29
+Black   52   36
+White   29   36
+Black   59   31
+White   14   22
+Black   31   28
+White   03   12
+Black   28   12
+New Game
+
+White   09   25
+Black   54   38
+White   10   26
+Black   49   33
+White   11   27
+Black   52   36
+White   26   33
+Black   61   25
+White   03   11
+Black   25   11
+New Game
+
+White   15   31
+Black   50   42
+White   14   30
+Black   55   39
+New Game
+
+White   15   31
+Black   51   35
+New Game
+
+White   08   24
+Black   55   39
+New Game
+
+White   09   25
+Black   54   46
+New Game
+
+White   10   26
+Black   52   44
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+White   13   29
+Black   62   47
+New Game
+
+White   15   31
+Black   57   40
+White   31   39
+Black   62   47
+White   12   28
+Black   51   35
+White   28   35
+Black   58   30
+New Game
+
+New Game
+
+New Game
+
+White   15   31
+Black   52   44
+White   31   39
+Black   61   52
+White   39   47
+Black   52   31
+White   14   30
+Black   31   13
+White   04   13
+Black   59   31
+White   07   31
+Black   54   38
+White   13   04
+Black   62   47
+White   31   47
+Black   53   37
+White   47   44
+Black   51   44
+White   30   37
+Black   44   36
+White   37   45
+Black   58   23
+White   06   23
+Black   38   30
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+White   11   27
+Black   51   35
+White   13   29
+Black   59   51
+White   29   37
+Black   51   37
+New Game
+
+White   10   26
+Black   53   45
+White   09   25
+Black   50   42
+New Game
+
+White   14   30
+Black   48   40
+White   13   29
+Black   54   46
+New Game
+
+New Game
+
+New Game
+
+White   13   29
+Black   51   43
+White   29   37
+Black   48   40
+White   37   45
+Black   58   23
+New Game
+
+White   11   27
+Black   50   42
+New Game
+
+White   14   30
+Black   50   34
+White   12   28
+Black   34   26
+White   28   36
+Black   26   18
+White   36   44
+Black   18   11
+White   04   11
+Black   51   44
+White   11   12
+Black   59   03
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+White   10   18
+Black   52   44
+New Game
+
+New Game
+
+White   15   31
+Black   51   35
+White   14   30
+Black   55   39
+White   09   25
+Black   58   30
+New Game
+
+New Game
+
+White   12   28
+Black   48   40
+New Game
+
+New Game
+
+New Game
+
+White   06   21
+Black   51   43
+White   21   36
+Black   49   41
+White   12   28
+Black   58   30
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+White   10   26
+Black   57   42
+White   11   27
+Black   42   32
+White   27   35
+Black   32   17
+New Game
+
+New Game
+
+White   10   26
+Black   62   47
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+White   09   25
+Black   62   47
+White   06   23
+Black   49   33
+White   14   30
+Black   58   49
+White   30   38
+Black   52   36
+White   13   21
+Black   49   21
+White   12   21
+Black   61   25
+White   10   18
+Black   25   18
+White   11   18
+Black   59   38
+White   23   38
+Black   53   45
+White   05   33
+Black   36   28
+White   33   51
+Black   57   51
+White   21   28
+Black   45   38
+White   18   26
+Black   56   57
+White   03   51
+Black   60   51
+White   26   34
+Black   57   01
+White   00   01
+Black   63   57
+White   01   57
+Black   47   30
+White   15   23
+Black   30   13
+White   04   13
+Black   38   30
+White   57   56
+Black   30   22
+White   13   22
+Black   51   42
+White   56   48
+Black   55   47
+White   48   50
+Black   42   50
+White   22   15
+Black   50   42
+White   28   36
+Black   42   35
+White   36   44
+Black   35   44
+White   23   31
+Black   54   38
+White   31   38
+Black   44   35
+White   38   47
+Black   35   26
+White   07   03
+Black   26   33
+White   03   43
+Black   33   34
+White   43   35
+Black   34   35
+White   08   24
+Black   35   28
+White   02   38
+Black   28   37
+White   38   31
+Black   37   30
+White   31   13
+Black   30   21
+White   13   31
+Black   21   30
+White   31   04
+Black   30   39
+White   04   22
+Black   39   46
+White   22   31
+Black   46   39
+White   31   38
+Black   39   38
+White   15   22
+Black   38   47
+White   22   30
+Black   47   54
+White   30   38
+Black   54   63
+White   38   46
+Black   63   62
+White   46   45
+Black   62   55
+White   45   36
+Black   55   46
+White   36   28
+Black   46   39
+White   28   20
+Black   39   30
+White   20   12
+Black   30   23
+White   12   04
+Black   23   14
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+White   11   27
+Black   51   35
+White   12   28
+Black   52   44
+White   28   35
+Black   61   25
+White   10   18
+Black   25   18
+White   09   18
+Black   59   38
+White   35   44
+Black   38   11
+White   03   11
+Black   58   44
+White   11   12
+Black   62   52
+White   14   22
+Black   44   30
+New Game
+
+White   14   30
+Black   49   41
+White   13   29
+Black   48   40
+White   29   37
+Black   58   49
+White   10   26
+Black   52   36
+White   26   34
+Black   59   31
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+White   11   27
+Black   53   37
+White   13   29
+Black   54   38
+White   29   38
+Black   52   36
+New Game
+
+White   11   27
+Black   49   41
+New Game
+
+White   10   26
+Black   52   44
+White   11   27
+Black   59   38
+White   14   30
+Black   61   25
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+White   12   28
+Black   54   38
+White   12   28
+Black   50   34
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+White   12   28
+Black   51   43
+White   05   33
+Black   57   42
+White   33   42
+Black   49   42
+White   01   18
+Black   58   30
+White   03   30
+Black   62   47
+White   15   31
+Black   47   30
+White   13   21
+Black   30   13
+White   04   13
+Black   59   57
+White   31   39
+Black   57   41
+New Game
+
+New Game
+
+New Game
+
+White   13   29
+Black   62   47
+White   01   18
+Black   47   37
+White   12   20
+Black   37   20
+White   11   20
+Black   52   36
+White   29   37
+Black   59   31
+New Game
+
+White   13   29
+Black   49   33
+White   11   27
+Black   57   40
+White   02   20
+Black   52   36
+White   29   36
+Black   61   25
+White   04   13
+Black   59   31
+White   14   22
+Black   31   15
+White   07   15
+Black   25   04
+White   03   04
+Black   51   43
+White   36   43
+Black   58   23
+White   15   23
+Black   40   25
+White   43   50
+Black   25   19
+White   12   19
+Black   56   59
+White   50   59
+Black   60   59
+White   08   16
+Black   33   25
+White   16   25
+Black   48   32
+White   25   32
+Black   62   52
+White   27   35
+Black   52   35
+White   22   30
+Black   35   20
+White   13   20
+Black   63   60
+White   20   21
+Black   60   20
+White   21   13
+Black   20   21
+White   13   21
+Black   55   39
+White   19   27
+Black   39   30
+White   21   30
+Black   53   37
+White   30   37
+Black   54   46
+White   37   46
+Black   59   50
+White   27   35
+Black   50   43
+White   04   44
+Black   43   34
+White   10   18
+
+End Game
+
+New Game
+
+White   12   28
+Black   51   35
+White   28   35
+Black   58   30
+White   13   29
+Black   30   03
+White   04   03
+Black   59   35
+White   10   18
+Black   35   11
+White   03   11
+Black   52   36
+White   29   36
+Black   61   34
+White   06   21
+Black   34   20
+White   11   20
+Black   53   45
+White   36   45
+Black   60   53
+White   45   54
+Black   62   52
+White   54   63
+Black   52   37
+White   20   13
+Black   57   51
+White   63   55
+Black   53   44
+White   55   39
+Black   56   63
+White   39   63
+Black   37   22
+White   15   22
+Black   51   36
+White   21   36
+Black   50   34
+White   36   21
+Black   48   40
+White   18   26
+Black   49   33
+White   26   33
+Black   34   26
+White   33   40
+Black   26   18
+White   09   18
+Black   44   37
+White   07   31
+Black   37   46
+White   63   61
+New Game
+
+
+End Game
+
+New Game
+
+New Game
+
+New Game
+
+White   11   27
+Black   52   36
+New Game
+
+White   11   19
+Black   52   36
+New Game
+
+White   12   28
+Black   51   35
+White   28   35
+Black   58   30
+New Game
+
+White   11   27
+Black   52   36
+New Game
+
+New Game
+
+White   12   28
+Black   51   35
+New Game
+
+White   13   29
+Black   52   36
+White   29   36
+Black   59   31
+New Game
+
+White   13   29
+Black   52   36
+New Game
+
+White   12   28
+Black   51   35
+New Game
+
+White   13   29
+Black   52   36
+New Game
+
+White   13   29
+Black   52   36
+New Game
+
+White   14   30
+Black   51   35
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+
+End Game
+
+New Game
+
+New Game
+
+
+End Game
+
+New Game
+
+New Game
+
+
+End Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+
+End Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+
+End Game
+
+New Game
+
+New Game
+
+
+End Game
+
+New Game
+
+New Game
+
+New Game
+
+White   12   28
+Black   51   35
+White   11   27
+Black   58   30
+White   03   30
+Black   62   47
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+White   11   27
+Black   52   36
+White   27   36
+Black   61   25
+White   10   18
+Black   25   18
+White   01   18
+Black   59   38
+White   02   38
+Black   55   47
+White   18   35
+Black   47   38
+White   35   50
+Black   60   59
+White   50   56
+Black   63   15
+White   03   43
+Black   15   47
+White   43   61
+New Game
+
+
+End Game
+
+New Game
+
+White   15   31
+Black   52   36
+White   13   21
+Black   59   31
+White   07   31
+Black   61   52
+White   31   28
+Black   52   31
+White   14   22
+Black   31   22
+New Game
+
+New Game
+
+
+End Game
+
+New Game
+
+White   15   31
+Black   52   36
+White   13   29
+Black   59   31
+White   07   31
+Black   61   52
+White   31   55
+Black   52   31
+White   14   22
+Black   31   22
+New Game
+
+
+End Game
+
+New Game
+
+New Game
+
+White   14   30
+Black   51   35
+White   30   38
+Black   58   23
+White   06   23
+Black   59   58
+White   09   25
+Black   58   23
+White   05   23
+Black   52   36
+White   25   33
+Black   61   16
+White   01   16
+Black   55   47
+White   33   41
+Black   47   38
+White   41   50
+New Game
+
+New Game
+
+New Game
+
+White   14   30
+Black   51   35
+New Game
+
+New Game
+
+White   14   30
+Black   51   35
+White   30   38
+Black   58   23
+White   06   23
+Black   59   58
+White   23   29
+Black   52   36
+White   29   35
+Black   58   23
+White   05   23
+Black   50   42
+White   38   46
+Black   55   46
+White   12   28
+Black   63   23
+White   08   24
+Black   23   20
+White   04   05
+Black   20   04
+White   03   04
+Black   42   35
+White   28   35
+Black   61   16
+White   09   16
+Black   62   52
+White   35   43
+Black   60   51
+White   43   52
+Black   49   33
+White   52   60
+Black   51   60
+White   24   33
+Black   48   40
+White   10   26
+Black   40   33
+White   26   33
+Black   56   16
+White   00   16
+Black   46   38
+White   33   41
+Black   57   51
+White   41   49
+Black   51   34
+White   49   57
+Black   60   51
+New Game
+
+White   14   30
+Black   51   35
+White   30   38
+Black   58   23
+White   06   23
+Black   59   58
+White   09   25
+Black   58   23
+White   05   23
+Black   52   36
+White   25   33
+Black   61   16
+New Game
+
+White   09   25
+Black   52   36
+New Game
+
+New Game
+
+White   11   27
+Black   52   36
+White   27   36
+Black   61   25
+White   10   18
+Black   25   18
+White   09   18
+Black   59   38
+White   18   26
+Black   38   11
+White   04   11
+Black   51   43
+White   36   43
+Black   58   37
+White   43   50
+New Game
+
+White   13   29
+Black   52   36
+White   29   36
+Black   59   31
+White   14   22
+Black   31   22
+White   15   22
+Black   61   34
+White   10   26
+Black   34   13
+White   04   13
+Black   51   43
+White   36   43
+Black   58   23
+White   43   50
+Black   23   14
+White   50   58
+Black   62   52
+White   13   14
+Black   52   37
+New Game
+
+New Game
+
+White   14   30
+Black   51   35
+White   30   38
+Black   58   23
+White   05   23
+Black   59   58
+White   06   21
+Black   58   23
+White   11   27
+Black   23   05
+White   04   05
+Black   52   36
+White   27   36
+Black   61   16
+White   09   16
+Black   53   45
+White   36   45
+Black   54   45
+White   38   45
+Black   35   27
+White   21   27
+Black   50   34
+White   27   42
+Black   62   45
+White   42   57
+Black   34   26
+White   57   40
+Black   56   59
+White   01   18
+Black   59   03
+White   05   14
+Black   63   62
+White   14   21
+Black   62   22
+White   21   22
+Black   45   39
+White   22   30
+Black   39   45
+White   30   38
+Black   45   28
+White   18   28
+Black   03   06
+White   07   06
+Black   55   47
+White   38   47
+Black   26   18
+White   28   18
+Black   60   53
+White   13   29
+Black   53   44
+White   12   28
+Black   44   53
+White   28   36
+Black   53   44
+White   29   37
+Black   44   36
+White   37   45
+Black   36   45
+White   06   46
+Black   45   36
+White   15   31
+Black   36   27
+White   47   54
+Black   27   18
+White   31   39
+Black   18   10
+White   39   47
+Black   10   03
+White   46   22
+Black   03   12
+White   47   55
+Black   12   13
+White   55   63
+Black   13   22
+New Game
+
+White   14   30
+Black   51   35
+White   30   38
+Black   58   23
+White   06   23
+Black   59   58
+White   10   18
+Black   58   23
+White   05   23
+Black   35   27
+White   18   27
+Black   52   36
+White   27   36
+Black   61   16
+White   09   16
+Black   53   45
+White   36   45
+Black   54   45
+White   38   45
+Black   60   53
+White   11   27
+Black   50   34
+White   27   34
+Black   57   51
+White   12   28
+Black   51   34
+White   28   36
+Black   34   19
+White   03   19
+Black   56   59
+White   19   59
+Black   62   45
+White   36   45
+Black   63   60
+White   59   60
+Black   53   60
+White   45   53
+Black   60   53
+New Game
+
+White   14   30
+Black   51   35
+White   30   38
+Black   58   23
+White   06   23
+Black   59   58
+White   23   29
+Black   52   36
+White   29   35
+Black   58   23
+White   05   23
+Black   50   42
+White   35   50
+Black   60   59
+White   50   56
+Black   61   16
+White   09   16
+Black   55   47
+White   10   26
+Black   47   38
+White   12   28
+Black   63   23
+White   26   34
+Black   23   20
+White   11   20
+Black   59   52
+White   13   29
+Black   38   29
+White   20   29
+Black   53   37
+White   29   36
+Black   37   28
+White   16   24
+Black   57   51
+White   07   05
+Black   51   41
+White   34   41
+Black   52   44
+White   41   48
+Black   44   36
+White   56   41
+New Game
+
+White   13   29
+Black   52   36
+White   29   36
+Black   59   31
+White   14   22
+Black   31   22
+White   15   22
+Black   61   34
+White   11   27
+Black   34   25
+White   10   18
+Black   25   18
+White   09   18
+Black   51   43
+White   36   43
+Black   58   23
+White   06   23
+Black   50   34
+White   43   51
+Black   60   51
+New Game
+
+White   14   30
+Black   51   35
+White   06   23
+Black   58   30
+White   13   21
+Black   30   23
+White   05   23
+Black   59   58
+White   21   29
+Black   58   23
+White   04   13
+Black   23   15
+White   07   15
+Black   52   36
+White   09   25
+Black   61   34
+White   25   34
+Black   54   38
+White   29   38
+Black   57   51
+White   15   39
+Black   62   45
+White   38   45
+Black   51   45
+White   34   42
+Black   45   30
+White   13   04
+Black   30   20
+White   11   20
+Black   35   27
+White   20   27
+Black   49   42
+White   27   36
+Black   56   59
+White   36   44
+Black   59   03
+White   04   03
+Black   53   44
+White   12   28
+Black   44   36
+White   10   26
+Black   63   61
+White   01   11
+Black   61   05
+White   11   05
+Black   60   53
+White   26   34
+Black   53   46
+White   39   55
+Black   46   55
+White   08   24
+Black   55   46
+White   00   01
+Black   48   40
+White   01   41
+Black   50   41
+White   34   41
+Black   42   34
+White   41   49
+Black   34   26
+New Game
+
+White   15   31
+Black   52   36
+White   14   30
+Black   59   31
+White   07   31
+Black   61   52
+White   31   47
+Black   62   47
+White   13   29
+Black   52   31
+New Game
+
+
+End Game
+
+New Game
+
+White   13   29
+Black   52   36
+White   29   36
+Black   59   31
+White   14   22
+Black   31   22
+White   15   22
+Black   61   34
+White   11   27
+Black   34   25
+White   10   18
+Black   25   18
+White   09   18
+Black   51   43
+White   36   43
+Black   58   23
+White   43   50
+New Game
+
+White   15   23
+Black   51   35
+White   10   26
+Black   58   37
+White   26   35
+Black   37   10
+White   03   10
+Black   59   35
+White   11   19
+Black   35   32
+White   10   11
+Black   32   11
+White   04   11
+Black   52   36
+White   12   28
+Black   61   25
+White   11   12
+Black   25   11
+White   12   11
+Black   53   37
+White   28   37
+Black   36   28
+White   19   28
+Black   62   45
+White   28   36
+Black   45   28
+White   11   03
+Black   28   13
+White   03   10
+Black   63   61
+White   10   17
+Black   61   37
+White   36   44
+Black   37   33
+White   17   16
+Black   33   32
+White   16   17
+Black   32   33
+White   17   10
+Black   33   09
+White   10   09
+Black   13   03
+White   09   16
+Black   03   13
+White   14   30
+Black   60   61
+White   44   52
+Black   61   52
+White   30   38
+Black   57   51
+White   23   31
+Black   56   63
+White   31   39
+Black   63   56
+White   39   47
+Black   54   47
+White   38   47
+Black   56   63
+White   05   40
+Black   49   40
+White   16   09
+Black   63   57
+White   09   18
+Black   57   17
+White   08   17
+Black   13   03
+White   18   26
+Black   51   41
+White   26   19
+Black   03   13
+White   19   27
+Black   50   34
+White   27   34
+Black   41   51
+White   34   26
+Black   51   41
+White   26   25
+Black   41   35
+White   25   16
+Black   52   45
+White   17   25
+Black   35   25
+White   16   25
+Black   40   32
+White   25   32
+Black   48   40
+White   32   40
+Black   45   36
+New Game
+
+White   12   28
+Black   51   35
+White   28   35
+Black   58   30
+White   15   31
+Black   30   03
+White   04   03
+Black   59   35
+White   11   27
+Black   35   27
+White   03   12
+Black   27   13
+White   12   13
+Black   54   38
+White   31   38
+Black   61   54
+White   06   21
+Black   54   27
+White   02   20
+Black   27   20
+White   13   20
+Black   55   47
+White   38   47
+Black   63   47
+White   21   38
+Black   47   44
+White   38   44
+Black   53   44
+White   20   13
+Black   44   36
+White   14   30
+Black   62   47
+White   30   38
+Black   47   30
+White   13   04
+Black   30   13
+White   04   13
+Black   36   28
+White   38   46
+Black   28   20
+White   13   20
+Black   52   36
+White   46   54
+Black   60   53
+White   20   12
+Black   53   54
+White   10   26
+Black   49   33
+White   26   33
+Black   48   40
+White   33   41
+Black   57   51
+White   41   50
+Black   56   63
+White   50   58
+Black   63   15
+New Game
+
+White   15   31
+New Game
+
+White   15   31
+Black   52   36
+White   14   30
+Black   59   31
+New Game
+
+White   15   31
+Black   52   36
+White   14   22
+Black   59   31
+White   22   31
+Black   61   16
+White   31   39
+Black   16   09
+White   02   09
+Black   62   45
+White   12   28
+Black   45   28
+White   11   19
+Black   28   13
+White   04   13
+Black   36   28
+White   19   28
+Black   51   35
+White   28   35
+Black   58   30
+White   13   04
+Black   30   03
+White   04   03
+Black   50   42
+White   10   26
+Black   42   35
+White   26   35
+Black   54   46
+White   35   43
+Black   46   39
+White   43   51
+Black   60   51
+White   09   63
+Black   57   42
+White   08   24
+Black   39   31
+White   24   32
+Black   42   32
+New Game
+
+White   11   27
+Black   52   36
+White   27   36
+Black   61   25
+White   10   18
+Black   25   18
+White   09   18
+Black   59   38
+White   18   26
+Black   38   11
+White   03   11
+Black   51   43
+White   36   43
+Black   58   37
+White   26   34
+Black   37   01
+White   00   01
+Black   50   43
+White   34   43
+Black   62   52
+White   43   52
+Black   63   61
+White   52   61
+Black   60   61
+White   12   28
+Black   53   37
+White   28   37
+Black   54   46
+White   37   46
+Black   61   54
+White   46   55
+Black   57   51
+White   55   63
+Black   56   60
+New Game
+
+White   14   30
+Black   51   35
+White   30   38
+Black   58   23
+White   06   23
+Black   59   58
+White   12   28
+Black   58   30
+White   28   35
+Black   30   03
+White   04   03
+Black   52   44
+White   10   26
+Black   44   35
+White   26   35
+Black   61   16
+White   09   16
+Black   50   42
+White   35   42
+Black   55   47
+White   42   49
+New Game
+
+White   14   30
+Black   51   35
+White   12   28
+Black   58   30
+White   28   35
+Black   30   03
+White   04   03
+Black   59   35
+White   10   26
+Black   35   11
+White   03   11
+Black   49   33
+White   26   33
+Black   48   40
+White   33   40
+Black   56   40
+White   09   25
+Black   40   08
+White   00   08
+Black   52   36
+White   25   33
+Black   61   25
+White   11   03
+Black   25   11
+White   02   11
+Black   50   42
+White   33   42
+Black   36   28
+White   42   50
+New Game
+
+White   12   28
+Black   51   35
+White   28   35
+Black   58   30
+White   03   30
+Black   62   47
+White   30   58
+Black   52   36
+White   58   59
+Black   60   59
+White   35   43
+Black   47   30
+White   43   50
+Black   59   50
+White   10   26
+Black   30   13
+White   26   34
+Black   13   19
+White   04   03
+Black   19   09
+White   02   09
+Black   61   34
+White   09   36
+Black   34   43
+White   36   43
+Black   50   43
+White   14   30
+Black   55   39
+White   30   39
+Black   63   39
+White   11   27
+Black   39   15
+White   27   35
+Black   15   11
+White   03   11
+Black   57   51
+White   05   33
+Black   56   63
+White   33   51
+Black   63   15
+White   07   15
+Black   48   40
+White   08   24
+Black   43   52
+White   24   32
+Black   52   43
+White   01   18
+Black   43   52
+White   18   33
+Black   52   51
+White   33   48
+Black   51   43
+White   15   47
+Black   43   35
+White   11   12
+Black   35   28
+White   00   03
+Black   28   37
+White   03   35
+Black   37   28
+White   35   33
+Black   54   47
+White   33   49
+Black   53   37
+White   49   41
+Black   37   29
+White   41   40
+Black   29   21
+White   12   05
+Black   21   13
+White   05   13
+Black   47   39
+White   40   47
+Black   39   31
+White   48   33
+Black   31   23
+White   32   40
+Black   23   15
+White   06   23
+Black   15   07
+White   40   48
+Black   07   21
+White   13   06
+Black   21   07
+White   06   07
+Black   28   21
+White   48   56
+Black   21   12
+New Game
+
+White   14   30
+Black   51   35
+White   30   38
+Black   58   23
+White   06   23
+Black   59   58
+White   12   28
+Black   58   30
+White   28   35
+Black   30   03
+White   04   03
+Black   52   44
+White   35   44
+Black   61   16
+White   44   53
+New Game
+
+White   15   31
+Black   52   36
+White   13   29
+Black   59   31
+White   14   22
+Black   31   22
+New Game
+
+
+End Game
+
+New Game
+
+White   14   30
+Black   51   35
+New Game
+
+White   11   27
+Black   52   36
+White   02   47
+Black   61   25
+White   10   18
+Black   25   18
+White   09   18
+Black   62   47
+White   27   36
+Black   51   43
+White   36   43
+Black   59   43
+White   13   29
+Black   43   03
+White   04   03
+Black   58   37
+White   12   28
+Black   37   30
+White   03   02
+Black   30   12
+White   05   12
+Black   47   30
+White   28   36
+Black   30   13
+White   36   44
+Black   13   19
+White   12   19
+Black   54   38
+White   44   53
+Black   60   53
+White   29   38
+Black   63   59
+White   38   46
+Black   55   46
+White   18   26
+Black   46   38
+New Game
+
+New Game
+
+White   14   30
+Black   51   35
+New Game
+
+White   13   29
+Black   52   36
+White   29   36
+Black   59   31
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+White   14   30
+Black   51   35
+White   30   38
+Black   58   23
+White   06   23
+Black   59   58
+White   38   46
+Black   58   23
+White   46   55
+Black   23   05
+White   04   05
+Black   63   55
+White   12   28
+Black   55   15
+White   28   35
+Black   15   07
+White   05   12
+Black   07   04
+White   03   04
+Black   52   44
+White   35   43
+Black   61   43
+White   09   25
+Black   43   36
+White   25   33
+Black   36   00
+White   33   41
+Black   00   09
+White   41   50
+Black   09   02
+White   50   58
+Black   60   52
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+White   12   28
+Black   51   35
+White   28   35
+Black   58   30
+White   03   30
+Black   62   47
+White   30   24
+Black   59   51
+White   05   33
+Black   51   33
+White   24   33
+Black   50   42
+White   35   42
+Black   49   42
+White   33   41
+Black   48   41
+White   11   27
+Black   56   08
+New Game
+
+White   14   30
+Black   51   35
+White   05   14
+Black   58   30
+White   15   23
+Black   30   12
+White   03   12
+Black   59   58
+White   14   35
+Black   58   30
+White   12   30
+Black   62   47
+White   30   58
+New Game
+
+
+End Game
+
+New Game
+
+New Game
+
+White   12   28
+Black   51   35
+White   28   36
+Black   58   30
+White   03   30
+Black   62   47
+White   30   38
+Black   52   44
+White   05   33
+Black   57   51
+White   06   21
+Black   59   38
+White   21   38
+Black   48   40
+White   33   51
+Black   60   51
+White   38   53
+Black   47   53
+White   10   26
+Black   53   36
+White   26   35
+Black   36   21
+White   14   21
+Black   61   16
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+White   13   29
+Black   52   36
+White   29   36
+Black   59   31
+New Game
+
+New Game
+
+White   13   29
+Black   52   36
+White   29   36
+Black   59   31
+New Game
+
+White   13   29
+Black   52   36
+White   29   36
+Black   59   31
+New Game
+
+White   14   30
+Black   51   35
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+White   14   30
+Black   51   35
+White   30   38
+Black   58   23
+White   06   23
+Black   59   58
+White   05   14
+Black   58   23
+New Game
+
+New Game
+
+White   14   30
+Black   51   35
+White   30   38
+Black   58   23
+White   05   23
+Black   59   58
+White   13   29
+Black   58   23
+New Game
+
+White   13   29
+Black   52   36
+White   29   36
+Black   59   31
+New Game
+
+White   14   30
+Black   51   35
+White   13   29
+Black   58   30
+New Game
+
+White   15   31
+Black   52   36
+White   13   29
+Black   59   31
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+White   15   31
+Black   52   36
+White   31   39
+Black   59   31
+White   31   39
+Black   59   31
+New Game
+
+White   13   29
+Black   52   36
+White   29   36
+Black   59   31
+New Game
+
+White   14   30
+Black   51   35
+New Game
+
+White   13   29
+Black   52   36
+New Game
+
+White   12   28
+Black   51   35
+New Game
+
+White   14   30
+Black   51   35
+White   30   38
+Black   58   23
+New Game
+
+White   14   30
+Black   51   35
+New Game
+
+White   14   30
+Black   51   35
+White   30   38
+Black   58   23
+New Game
+
+White   13   29
+Black   52   36
+White   29   36
+Black   59   31
+New Game
+
+White   14   30
+Black   51   35
+New Game
+
+White   14   30
+Black   51   35
+White   30   38
+Black   58   23
+New Game
+
+White   12   28
+Black   51   35
+White   28   35
+Black   58   30
+New Game
+
+White   12   28
+Black   51   35
+White   28   35
+Black   58   30
+New Game
+
+New Game
+
+White   12   28
+Black   51   35
+New Game
+
+White   13   29
+Black   52   36
+White   29   36
+Black   59   31
+New Game
+
+White   13   29
+Black   52   36
+White   29   36
+Black   59   31
+White   13   29
+Black   52   36
+New Game
+
+New Game
+
+White   13   29
+Black   52   36
+New Game
+
+White   14   30
+Black   51   35
+New Game
+
+White   12   28
+Black   51   35
+White   11   27
+Black   52   36
+White   11   27
+Black   52   36
+White   27   36
+Black   61   25
+White   27   36
+Black   61   25
+New Game
+
+White   13   29
+Black   52   36
+New Game
+
+White   14   30
+Black   51   35
+White   14   30
+Black   51   35
+New Game
+
+White   12   28
+Black   51   35
+White   28   35
+Black   58   30
+White   28   35
+Black   58   30
+New Game
+
+White   13   29
+Black   52   36
+White   29   36
+Black   59   31
+White   29   36
+Black   59   31
+White   29   36
+Black   59   31
+New Game
+
+White   14   30
+Black   51   35
+White   13   29
+Black   52   36
+White   29   36
+Black   59   31
+White   14   22
+Black   31   22
+White   15   22
+Black   61   34
+White   09   17
+Black   34   13
+White   12   20
+Black   34   20
+White   11   20
+Black   51   43
+White   03   43
+Black   50   43
+White   36   43
+Black   58   23
+White   36   43
+Black   58   30
+White   43   50
+Black   30   03
+White   50   57
+Black   56   57
+White   50   49
+Black   03   21
+White   49   56
+Black   21   07
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+White   14   30
+Black   51   35
+White   13   29
+Black   52   36
+White   29   36
+Black   59   31
+White   14   22
+Black   31   22
+White   15   22
+Black   61   34
+White   09   25
+Black   34   13
+White   04   13
+Black   51   43
+White   25   33
+Black   58   23
+White   36   43
+Black   23   14
+White   05   14
+Black   50   43
+White   43   50
+Black   62   52
+White   50   58
+Black   52   58
+White   50   58
+Black   52   58
+White   33   41
+Black   50   43
+White   36   43
+Black   23   14
+White   43   50
+Black   62   52
+White   43   51
+Black   60   51
+White   05   14
+Black   50   43
+White   12   28
+Black   43   35
+White   28   35
+Black   62   52
+White   35   43
+Black   52   37
+White   43   51
+Black   60   51
+White   22   30
+Black   37   20
+White   13   20
+Black   63   60
+White   20   13
+Black   60   12
+White   13   12
+Black   55   39
+White   30   39
+Black   48   40
+White   39   47
+Black   40   33
+White   47   54
+Black   56   08
+White   54   62
+Black   08   00
+White   54   62
+Black   08   00
+White   62   57
+Black   00   56
+White   57   56
+Black   33   25
+White   56   49
+Black   51   44
+White   49   25
+Black   53   37
+White   25   61
+Black   37   29
+White   61   29
+Black   44   51
+White   29   36
+Black   51   58
+White   36   43
+New Game
+
+
+End Game
+
+New Game
+
+
+End Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+White   12   28
+Black   51   35
+White   06   21
+Black   35   28
+White   05   26
+Black   59   11
+White   04   06
+Black   11   13
+New Game
+
+White   12   28
+Black   51   35
+White   05   26
+Black   58   30
+White   06   21
+Black   30   21
+White   04   06
+Black   35   26
+New Game
+
+White   12   28
+Black   51   35
+White   05   26
+Black   58   30
+White   06   21
+Black   30   21
+White   04   06
+Black   35   26
+White   06   21
+Black   30   21
+New Game
+
+White   12   28
+Black   51   35
+White   05   26
+Black   58   30
+White   06   21
+Black   30   21
+White   04   06
+Black   35   26
+New Game
+
+White   12   28
+Black   51   35
+White   05   26
+Black   58   30
+White   06   21
+Black   30   21
+White   04   06
+Black   35   26
+New Game
+
+New Game
+
+White   12   28
+Black   51   35
+White   05   26
+Black   58   30
+White   06   21
+Black   30   21
+White   04   06
+Black   35   26
+New Game
+
+New Game
+
+White   13   29
+Black   52   36
+White   11   19
+Black   61   25
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+White   13   29
+Black   52   36
+New Game
+
+White   13   29
+Black   52   36
+White   29   36
+Black   59   31
+White   14   22
+Black   31   22
+White   15   22
+Black   61   34
+White   11   27
+Black   34   25
+White   10   18
+Black   25   18
+White   09   18
+Black   51   43
+White   36   43
+Black   58   23
+New Game
+
+White   13   29
+Black   52   36
+New Game
+
+New Game
+
+
+End Game
+
+New Game
+
+New Game
+
+New Game
+
+White   13   29
+Black   52   36
+White   12   20
+Black   59   31
+New Game
+
+New Game
+
+New Game
+
+
+End Game
+
+New Game
+
+New Game
+
+
+End Game
+
+New Game
+
+New Game
+
+
+End Game
+
+New Game
+
+New Game
+
+White   10   18
+Black   52   36
+New Game
+
+New Game
+
+White   12   28
+Black   51   35
+White   28   35
+Black   58   30
+White   03   30
+Black   62   47
+New Game
+
+White   01   16
+Black   52   36
+New Game
+
+White   09   25
+Black   52   36
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+White   14   30
+Black   51   35
+White   12   28
+Black   58   30
+White   13   21
+Black   30   21
+White   06   21
+Black   35   28
+White   21   36
+Black   59   11
+New Game
+
+White   01   18
+Black   52   36
+White   13   29
+Black   59   31
+White   14   22
+Black   31   22
+White   15   22
+Black   61   25
+New Game
+
+White   12   28
+Black   51   35
+White   28   35
+Black   58   30
+White   03   30
+Black   62   47
+White   30   24
+Black   59   51
+White   05   33
+Black   51   33
+White   24   33
+Black   50   42
+White   33   49
+Black   52   36
+White   49   56
+Black   36   28
+White   56   57
+Black   60   51
+White   57   49
+Black   51   60
+White   35   42
+Black   28   20
+White   42   50
+Black   20   13
+New Game
+
+New Game
+
+
+End Game
+
+New Game
+
+New Game
+
+
+End Game
+
+New Game
+
+New Game
+
+White   11   27
+Black   52   36
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+White   13   29
+Black   52   36
+White   29   36
+Black   59   31
+New Game
+
+White   13   29
+Black   52   36
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+New Game
+
+White   14   30
+Black   51   35
+White   30   38
+Black   58   23
+White   06   23
+Black   59   58
+White   07   06
+Black   58   23
+White   05   23
+Black   55   47
+White   05   23
+Black   55   47
+New Game
+
+New Game
+
+White   12   28
+Black   51   35
+White   28   35
+Black   58   30
